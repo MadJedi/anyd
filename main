@@ -1,0 +1,5 @@
+rmdir "C:\ProgramData\AnyDesk"
+rmdir "%AppData%\AnyDesk" /S /Q
+rmdir "%userprofile%\AppData\Roaming\AnyDesk\"
+rmdir "%LOCALAPPDATA%\AnyDesk" /S /Q
+rmdir "C:\Program Files (x86)\AnyDesk" /S /Q
